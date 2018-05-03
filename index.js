@@ -1,3 +1,4 @@
+'use strict';
 module.exports = spongibobu;
 function spongibobu(str) {
     str = String(str);
