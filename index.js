@@ -12,8 +12,7 @@ function spongibobu(str) {
             res = res.concat(str[i].toUpperCase());
             if (!!(i + 1 < str.length)) {
                 i++;
-            res = res.concat(str[i].toLowerCase());
-                
+                res = res.concat(str[i].toLowerCase());                
             }
         } else {
             res = res.concat(str[i].toLowerCase());
