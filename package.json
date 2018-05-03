@@ -1,6 +1,6 @@
 {
   "name": "spongibobu.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A normal-to-spongebob-meme text convert",
   "main": "index.js",
   "scripts": {
