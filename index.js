@@ -1,6 +1,11 @@
 //module.exports = spongibobu;
 function spongibobu(str) {
     str = String(str);
+    
+    if (!!(str.length == 0)) {
+          return "";
+    }
+      
     let res = "";
     for (let i = 0; i < str.length; i++) {
         if (Math.random() >= 0.5) {
