@@ -1,5 +1,5 @@
-'use strict';
-module.exports = spongibobu;
+'use strict'
+
 function spongibobu(str) {
     str = String(str);
     if (!str.length) {
@@ -18,3 +18,9 @@ function spongibobu(str) {
     }
     return res;
 }
+
+window.addEventListener('input',
+    () => {
+        document.getElementById("textOutput").innerHTML = spongibobu(document.getElementById("textInput").value);
+    }
+)

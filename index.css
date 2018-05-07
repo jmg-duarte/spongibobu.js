@@ -1,0 +1,34 @@
+body {
+    background-color: white;
+    height: 100%;
+}
+
+
+h1 {
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.center-block {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+.text-center {
+    text-align:center;
+}
+
+.row {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.input-group {
+
+}
