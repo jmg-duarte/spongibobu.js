@@ -13,6 +13,7 @@ p {
     color: grey;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
+    overflow-wrap: break-word;
 }
 .center-block {
     margin-left:auto;
@@ -30,5 +31,5 @@ p {
 }
 
 .input-group {
-
+    margin: 0 auto;
 }
