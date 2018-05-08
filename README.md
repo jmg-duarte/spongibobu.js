@@ -1,4 +1,4 @@
-# spongibobu.js
+# [spongibobu.js](https://jmg-duarte.github.io/spongibobu.js/)
 > reposiTorieS mUst bE seRioUs AnD jS PackAgEs arE To bE TaKeN SerIously
 
 <img src="./resources/spongibobu.jpg" alt="spongibobu.js" align="right" height=250px>
