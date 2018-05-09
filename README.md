@@ -13,3 +13,9 @@ Use this package according to whatever your needs are.
 ```bash
 npm i spongibobu.js
 ```
+## Usage examples
+### Quotes
+* start less, finish more -> sTaRt lesS, fIniSh mOrE
+* First solve the problem. Then, write the code -> fiRst sOlVe tHe PrObLem. thEn, WrItE The coDe
+* creativity is just connecting things -> cReaTivity is JusT ConnectiNg tHinGs
+
