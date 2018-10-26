@@ -14,6 +14,10 @@ Use this package according to whatever your needs are.
 npm i spongibobu.js
 ```
 ## Usage examples
+```javascript
+let mockedText = spongibobu("Start less, finish more");
+console.log(mockedText) //Prints: sTaRt lesS, fIniSh mOrE 
+```
 ### Quotes
 * Start less, finish more -> sTaRt lesS, fIniSh mOrE
 * First solve the problem. Then, write the code -> fiRst sOlVe tHe PrObLem. thEn, WrItE The coDe
